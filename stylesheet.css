@@ -1,0 +1,15 @@
+html {
+  background-color: #b2ddd4;
+  zoom: 125%;
+}
+div {
+  font-size: 30px;
+}
+a {
+  all: unset;
+  text-decoration: none;
+}
+#profile {
+  width: 250px;
+  height: 150px;
+}
